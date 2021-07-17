@@ -3,8 +3,8 @@
 > Just in case you also want to use this stuff, follow these simple steps:
 
 1. Setup your Pihole to work properly
-2. Change to the directory "/etc/pihole" or wherever you installed it and create a new directory "lists" (just for example)
-3. Run: ```git clone https://github.com/SPKcoding/pihole_lists/ /etc/pihole/lists```
+2. Change to the directory "/etc/pihole" or wherever you installed it and create a new directory "blocklists" (just for example)
+3. Run: ```git clone https://github.com/SPKcoding/pihole_lists/ /etc/pihole/blocklists```
 4. Switch to "group-management/adlists" in your pihole´s webinterface
 5. Insert the following into the URL field (best way is to copy/paste it):
 ```
